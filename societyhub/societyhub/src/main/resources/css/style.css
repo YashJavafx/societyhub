@@ -1,0 +1,6 @@
+.root {
+    background-color: #f0f0f0; /* Set background color */
+    background-image: url("image/background.png"); /* Replace with your background image path */
+    background-size: cover; /* Cover the entire background */
+    background-position: center; /* Center the background image */
+}
